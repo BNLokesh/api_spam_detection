@@ -1,0 +1,22 @@
+{
+  "name": "spam_detection_api",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spam_detection_api/tests"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "other-dependency": "version-number"  // Replace 'version-number' with the actual version or remove it if unnecessary
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3",
+    "chai": "^4.3.4"
+  }
+}
+
